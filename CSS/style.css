@@ -1,0 +1,10 @@
+.info-bg{
+    background-color: #FEEAE9;
+}
+.buy_now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border: 2px solid pink;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
